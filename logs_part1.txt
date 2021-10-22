@@ -1,0 +1,20 @@
+1a34fbf (HEAD -> master, origin/master, develop) HEAD@{0}: checkout: moving from develop to master
+1a34fbf (HEAD -> master, origin/master, develop) HEAD@{1}: checkout: moving from feature1 to develop
+7bf8d21 (feature1) HEAD@{2}: checkout: moving from feature2 to feature1
+87df41a (feature2) HEAD@{3}: checkout: moving from feature1 to feature2
+7bf8d21 (feature1) HEAD@{4}: checkout: moving from develop to feature1
+1a34fbf (HEAD -> master, origin/master, develop) HEAD@{5}: checkout: moving from master to develop
+1a34fbf (HEAD -> master, origin/master, develop) HEAD@{6}: checkout: moving from feature1 to master
+7bf8d21 (feature1) HEAD@{7}: checkout: moving from feature2 to feature1
+87df41a (feature2) HEAD@{8}: checkout: moving from master to feature2
+1a34fbf (HEAD -> master, origin/master, develop) HEAD@{9}: merge develop: Fast-forward
+8d349fb HEAD@{10}: checkout: moving from develop to master
+1a34fbf (HEAD -> master, origin/master, develop) HEAD@{11}: commit: merge
+2364771 HEAD@{12}: checkout: moving from feature1 to develop
+7bf8d21 (feature1) HEAD@{13}: checkout: moving from develop to feature1
+2364771 HEAD@{14}: commit: ----
+e9b2806 HEAD@{15}: checkout: moving from feature2 to develop
+87df41a (feature2) HEAD@{16}: commit: html, css changes
+e9b2806 HEAD@{17}: checkout: moving from develop to feature2
+e9b2806 HEAD@{18}: checkout: moving from feature1 to develop
+7bf8d21 (feature1) HEAD@{19}: commit: html changes
